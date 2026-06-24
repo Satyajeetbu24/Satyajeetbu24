@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Satyajeet+Singh;B.Tech+CSE+(AI+%26+ML)+%40+Bennett+University;AI+%2F+ML+%7C+Cybersecurity+%7C+Full-Stack+Dev;Building+systems+that+go+beyond+the+demo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Satyajeet;B.Tech+CSE+(AI+%26+ML)+%40+Bennett+University;AI+%2F+ML+%7C+Cybersecurity+%7C+Full-Stack+Dev;Building+systems+that+go+beyond+the+demo)](https://git.io/typing-svg)
 
 ---
 
