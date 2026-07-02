@@ -8,6 +8,10 @@ I'm a third-year B.Tech student at Bennett University specializing in AI & ML.
 I build practical software — from real-time currency converters to security scanners —
 with a focus on clean code, real deployment, and continuous learning.
 
+<p align="center">
+  <img src="./assets/coding-vibes.gif" alt="Coding chaos" width="480"/>
+</p>
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajeetbu24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyajeetbu24?tab=repositories)
 
