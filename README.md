@@ -91,10 +91,7 @@ Predictive ML model using historical academic datasets with feature engineering,
 
 ---
 
-### 🛰️ OrbitOps — Smart India Hackathon 2025
-> Team Collaboration · SIH 2025
-
-Built as part of a team for SIH 2025. Contributed to system design, development, and rapid prototyping under competitive hackathon conditions.
+### 🛰️ OrbitOps 
 
 ---
 
