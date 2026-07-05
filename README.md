@@ -92,6 +92,7 @@ Predictive ML model using historical academic datasets with feature engineering,
 ---
 
 ### 🛰️ OrbitOps 
+OrbitOPS is a full-stack space situational awareness project that retrieves genuine orbital elements from CelesTrak, propagates object positions using SGP4, evaluates risk indicators, and presents the results through an interactive mission-control interface.
 
 ---
 
